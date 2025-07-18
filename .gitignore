@@ -1,0 +1,15 @@
+# Ignore node_modules folders in all subdirectories
+**/node_modules/
+
+# Ignore .env files in all subdirectories
+**/.env
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional: Vite build outputs (if used)
+dist/
